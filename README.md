@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./1131w-0LIL2xfd4AA.webp" alt="Weather Dashboard Cover" width="600"/>
+</p>
+
 # 🌍 Real-Time Weather Dashboard using AWS
 
 This is a serverless weather dashboard using AWS Lambda, API Gateway, S3, and OpenWeatherMap API.
